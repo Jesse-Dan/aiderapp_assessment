@@ -15,4 +15,4 @@ A straightforward todo application built with Flutter, using Riverpod for state 
 - Flutter for the frontend
 - Firebase Authentication
 - Cloud Firestore for todo storage
-- Riverpod for state management# aiderapp_assessment
+- Riverpod for state management
