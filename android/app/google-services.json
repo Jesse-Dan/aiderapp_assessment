@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "572531734758",
+    "project_id": "jti-ocean",
+    "storage_bucket": "jti-ocean.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572531734758:android:53e889d3befc800407a327",
+        "android_client_info": {
+          "package_name": "com.drell.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYaEKTEcGX8cqmfUKsBcUdq7xRlyw3QBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572531734758:android:b0ee72c29b89c5a807a327",
+        "android_client_info": {
+          "package_name": "com.jti.shore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYaEKTEcGX8cqmfUKsBcUdq7xRlyw3QBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

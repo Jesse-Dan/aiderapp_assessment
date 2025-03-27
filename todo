@@ -1,0 +1,10 @@
+# Before i proceed i'd like to point out that highly interactive task that require 
+# Some sort of feedback to move forward...; feedback shoulf be expected not seen
+# as flaws but just feeback as it is 
+
+- the first is as described: withing 3 days i installed lando while updating the blogs urls button and other links, which i did well and there was no return; except when the client requested i use NEWS and not publications. @Joshua asked me to use publications for the tagged content. (for this return was i at fault ?)
+- the second is as described:  within i looked into FBHSD-385 and the task was to call api/Logic check for a return parameter of WebAdmin as true which was then halted (3x; for priority reasons) for a new ticket FBHSD-543 Duplicate Author information. In the case studies sent to me here it wasn't clear what to do with (X) twitter links so i went ahead and removed all the authors as instructed as fast as possible (and it was never returned for the work i did). when it was returned i was asked to also remove the (X) twitter links which i then did. 
+- the third is as described: then came a new task run and install surrey care. Which i did sucessfully launched. i don't understand how this could be returned.
+- the forth is as described: At this point i had completed FBHSD-543, i moved forward to FBHSD-543 which was to edit the date of all resources on IES, i did this for 2 days up to 400+ resorces worked on which was almost half (sorry to mention, but this same task took 3 days when resigned), and i managed to complete the (X) twitter link removal at this time while FBHSD-543 was reasigned.
+- the fifth is as described:
+
