@@ -80,12 +80,13 @@ class ProfileView extends ConsumerWidget {
                 child: CircleAvatar(
                   radius: 50,
                   backgroundColor: Colors.black,
-                  backgroundImage:
-                      FirebaseAuth.instance.currentUser?.photoURL != null
-                          ? NetworkImage(user!.photoURL!)
-                          : const NetworkImage(
-                                  'https://example.com/real-image-url.jpg')
-                              as ImageProvider,
+                  backgroundImage: FirebaseAuth
+                              .instance.currentUser?.photoURL !=
+                          null
+                      ? NetworkImage(user!.photoURL!)
+                      : const NetworkImage(
+                              'https://res.cloudinary.com/dch8zvohv/image/upload/v1739710383/cseppb7anqx26budx2dw.jpg')
+                          as ImageProvider,
                 ),
               ),
               const SizedBox(height: 16),
